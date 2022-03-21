@@ -84,7 +84,7 @@ NODES=( 192.168.1.1 192.168.2.2 )
 #### 3) Run the script
 
 ```bash
-chmod +x fcqad.bas
+chmod +x fcqad.bash
 ./fcqad.bash
 ```
 
